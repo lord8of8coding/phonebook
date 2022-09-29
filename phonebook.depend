@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1664456707 source:c:\users\fayzo\onedrive\bureau\phonebook\phonebook\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
